@@ -1,0 +1,115 @@
+Alvin He,Shana Lee
+Joel Lim,Samantha Hua
+Ewon Kim,Marcus Rim
+Carol He,Molly Youn
+David Oh,Steve Jung
+Aaron Wong,Yusung Hwang
+Aaron Liu,Kelsey Miu
+Amy Jung,Nia Yick
+Timmy S,Trevor Hyun
+Millou LaForte,Veronica Jin
+Hajin Suh,Jamie Lee
+
+Alvin He,Haley Park
+Kelsey Miu,Carol He
+Matthew Suh,Alex Eum
+Molly Youn,Nia Yick
+Amy Jung,Shana Lee
+David Oh,Yusung Hwang
+Millou LaForte,Steve Jung
+Trevor Hyun,Timmy S
+Joel Lim,Stella Lee
+Ewon Kim,Aaron Wong
+Veronica Jin,Samantha Hua
+Marcus Rim,Hajin Suh
+Jamie Lee,Daniel Han
+
+Hajin Suh,Daniel Han
+Marcus Rim,Yusung Hwang
+Shana Lee,Nia Yick
+Molly Youn,Matthew Suh
+Haley Park,Timmy S
+Amy Jung,Trevor Hyun
+Veronica Jin,Jamie Lee
+Millou LaForte,Stella Lee
+Aaron Wong,Kelsey Miu
+Aaron Liu,Alvin He
+Ewon Kim,Carol He
+Joel Lim,David Oh
+Steve Jung,Samantha Hua
+
+Veronica Jin,Daniel Han
+Haley Park,Carol He
+Amy Jung,David Oh
+Ewon Kim,Millou LaForte
+Matthew Suh,Kelsey Miu
+Joel Lim,Timmy S
+Trevor Hyun,Molly Youn
+Samantha Hua,Shana Lee
+Aaron Wong,Alvin He
+Nia Yick,Marcus Rim
+Aaron Liu,Hajin Suh
+Steve Jung,Alex Eum
+Jamie Lee,Yusung Hwang
+
+Marcus Rim,Samantha Hua
+Jamie Lee,Trevor Hyun
+Shana Lee,David Oh
+Hajin Suh,Carol He
+Haley Park,Alex Eum
+Kelsey Miu,Timmy S
+Aaron Wong,Molly Youn
+Veronica Jin,Matthew Suh
+Daniel Han,Stella Lee
+Aaron Liu,Millou LaForte
+Nia Yick,Ewon Kim
+Steve Jung,Alvin He
+Yusung Hwang,Joel Lim
+
+Jamie Lee,Alvin He
+Shana Lee,Trevor Hyun
+Timmy S,Matthew Suh
+Haley Park,David Oh
+Kelsey Miu,Samantha Hua
+Aaron Wong,Millou LaForte
+Veronica Jin,Molly Youn
+Alex Eum,Yusung Hwang
+Amy Jung,Carol He
+Daniel Han,Steve Jung
+Aaron Liu,Joel Lim
+Nia Yick,Stella Lee
+Hajin Suh,Ewon Kim
+
+Marcus Rim,Stella Lee
+Jamie Lee,Millou LaForte
+Shana Lee,Ewon Kim
+Timmy S,Samantha Hua
+Haley Park,Trevor Hyun
+Kelsey Miu,Joel Lim
+Aaron Wong,Matthew Suh
+Veronica Jin,Alvin He
+Alex Eum,Carol He
+Amy Jung,Molly Youn
+Daniel Han,Yusung Hwang
+Aaron Liu,David Oh
+Nia Yick,Steve Jung
+
+Marcus Rim,Carol He
+Jamie Lee,Matthew Suh
+Shana Lee,Millou LaForte
+Samantha Hua,Ewon Kim
+Haley Park,Molly Youn
+Hajin Suh,Alvin He
+Aaron Wong,David Oh
+Veronica Jin,Joel Lim
+Alex Eum,Daniel Han
+Amy Jung,Stella Lee
+Trevor Hyun,Timmy S
+Aaron Liu,Steve Jung
+Nia Yick,Yusung Hwang
+
+Matthew Suh,Hajin
+Matthew Suh,Marcus
+Matthew Suh,Amy
+Hajin Suh,Stella Lee
+
