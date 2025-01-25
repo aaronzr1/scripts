@@ -20,6 +20,7 @@ def save_new_pairings(new_pairings):
     with open(PAIRINGS_FILE, "a") as f:
         for pair in new_pairings:
             f.write(f"{pair[0]},{pair[1]}\n")
+        f.write("\n")
 
 # Pair names with specified custom pairs and avoid past pairings
 def pair_names(names, custom_pairs=None, unpaired_name=None):
@@ -71,7 +72,7 @@ names = ["Marcus Rim", "Jamie Lee", "Shana Lee", "Timmy S", "Haley Park", "Kelse
          "Aaron Wong", "Amy Jung", "Aaron Liu", "Nia Yick", "Millou LaForte",
          "Samantha Hua", "Trevor Hyun", "Joel Lim", "Alvin He", "Carol He", 
          "Molly Youn", "David Oh", "Yusung Hwang", "Ashley Tran", "Sam Hahn", "Daniel Han"]
-custom_pairs = [("Amy Jung", "Alvin He"), ("Marcus Rim", "Millou LaForte")]
+custom_pairs = [("Amy Jung", "Millou LaForte"), ("Marcus Rim", "Ashley Tran")]
 
 new_pairings, unpaired = pair_names(names, custom_pairs, unpaired_name="")
 print("New Pairings:", new_pairings)

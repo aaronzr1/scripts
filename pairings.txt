@@ -124,3 +124,16 @@ Alvin He,Amy Jung
 Samantha Hua,Yusung Hwang
 Aaron Wong,Jamie Lee
 Marcus Rim,Millou LaForte
+
+Daniel Han,Sam Hahn
+Aaron Wong,Shana Lee
+David Oh,Nia Yick
+Timmy S,Yusung Hwang
+Ashley Tran,Marcus Rim
+Amy Jung,Millou LaForte
+Joel Lim,Molly Youn
+Alvin He,Carol He
+Aaron Liu,Samantha Hua
+Kelsey Miu,Trevor Hyun
+Haley Park,Jamie Lee
+
