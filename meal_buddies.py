@@ -29,13 +29,17 @@ def pair_names(names, custom_pairs=None, unpaired_name=None):
     max_retries = 10  # Limit the number of retries to avoid infinite loops
     retry_count = 0
 
+    unpaired = unpaired_name
+    if unpaired_name:
+        names.pop(names.index(unpaired_name))
+
+
     while retry_count < max_retries:
         retry_count += 1
         print(f"Attempt {retry_count} at pairing names...")
         random.shuffle(names)  # Shuffle names for a fresh start
         new_pairings = set(custom_pairs)  # Include custom pairs from the start
         remaining_names = [name for name in names if name not in {n for pair in custom_pairs for n in pair}]
-        unpaired = None
 
         # Attempt to create pairs
         while len(remaining_names) > 1:
@@ -55,26 +59,27 @@ def pair_names(names, custom_pairs=None, unpaired_name=None):
                 print(f"Conflict detected for {name1}. Restarting...")
                 break  # Restart the entire pairing process
 
+        # Handle the final unpaired person if restart didn't occur
+        if len(remaining_names) == 1:
+            unpaired = remaining_names.pop()
+        
         # Check for success
         if len(remaining_names) == 0:
             save_new_pairings(new_pairings)
             return list(new_pairings), unpaired
 
-        # Handle the final unpaired person if restart didn't occur
-        if len(remaining_names) == 1:
-            unpaired = remaining_names.pop()
-            exit()
-
-    raise Exception("Failed to pair names after multiple attempts. Consider adjusting constraints.")
+    raise Exception(f"Failed to pair names after {max_retries} attempts. Consider adjusting constraints.")
 
 # Example usage
-names = ["Marcus Rim", "Jamie Lee", "Shana Lee", "Timmy S", "Haley Park", "Kelsey Miu", 
-         "Aaron Wong", "Amy Jung", "Aaron Liu", "Nia Yick", "Millou LaForte",
+names = ["Marcus Rim", "Timmy S", "Haley Park", "Kelsey Miu", 
+         "Aaron Wong", "Amy Jung", "Aaron Liu", "Millou LaForte", 
          "Samantha Hua", "Trevor Hyun", "Joel Lim", "Alvin He", "Carol He", 
-         "Molly Youn", "David Oh", "Yusung Hwang", "Ashley Tran", "Sam Hahn", "Daniel Han"]
-custom_pairs = [("Amy Jung", "Millou LaForte"), ("Marcus Rim", "Ashley Tran")]
+         "Molly Youn", "Yusung Hwang", "Ashley Tran", "Sam Hahn", "Daniel Han", 
+         "Minjoo Yang", "Christine Kim", "Dylan Kim", "Noah Ong"]
+# custom_pairs = [("Amy Jung", "Ashley Tran"), ("Marcus Rim", "Alvin He")]
+custom_pairs = []
 
-new_pairings, unpaired = pair_names(names, custom_pairs, unpaired_name="")
+new_pairings, unpaired = pair_names(names, custom_pairs, unpaired_name=None)
 print("New Pairings:", new_pairings)
 if unpaired:
     print("Unpaired:", unpaired)

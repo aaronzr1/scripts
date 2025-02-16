@@ -137,3 +137,39 @@ Aaron Liu,Samantha Hua
 Kelsey Miu,Trevor Hyun
 Haley Park,Jamie Lee
 
+Sam Hahn,Timmy S
+Aaron Wong,Carol He
+Ashley Tran,Dylan Kim
+Alvin He,Millou LaForte
+Amy Jung,Yusung Hwang
+Minjoo Yang,Trevor Hyun
+Joel Lim,Marcus Rim
+Molly Youn,Samantha Hua
+Kelsey Miu,Noah Ong
+Aaron Liu,Shana Lee
+Christine Kim,Haley Park
+
+Ashley Tran,Daniel Han
+Aaron Liu,Amy Jung
+Marcus Rim,Molly Youn
+Kelsey Miu,Sam Hahn
+Christine Kim,Timmy S
+Aaron Wong,Haley Park
+Carol He,Joel Lim
+Minjoo Yang,Yusung Hwang
+Millou LaForte,Samantha Hua
+Dylan Kim,Noah Ong
+Alvin He,Trevor Hyun
+
+Carol He,Samantha Hua
+Haley Park,Kelsey Miu
+Alvin He,Marcus Rim
+Christine Kim,Molly Youn
+Sam Hahn,Yusung Hwang
+Millou LaForte,Minjoo Yang
+Daniel Han,Noah Ong
+Dylan Kim,Timmy S
+Amy Jung,Ashley Tran
+Aaron Liu,Aaron Wong
+Joel Lim,Trevor Hyun
+
