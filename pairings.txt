@@ -173,3 +173,48 @@ Amy Jung,Ashley Tran
 Aaron Liu,Aaron Wong
 Joel Lim,Trevor Hyun
 
+Amy Jung,Samantha Hua
+Dylan Kim,Minjoo Yang
+Alvin He,Joel Lim
+Aaron Liu,Sam Hahn
+Millou LaForte,Noah Ong
+Aaron Wong,Timmy S
+Molly Youn,Yusung Hwang
+Marcus Rim,Trevor Hyun
+Daniel Han,Kelsey Miu
+Carol He,Christine Kim
+Ashley Tran,Haley Park
+
+Ashley Tran,Timmy S
+Haley Park,Samantha Hua
+Dylan Kim,Trevor Hyun
+Aaron Liu,Yusung Hwang
+Christine Kim,Joel Lim
+Amy Jung,Kelsey Miu
+Marcus Rim,Sam Hahn
+Aaron Wong,Noah Ong
+Carol He,Millou LaForte
+Minjoo Yang,Molly Youn
+Alvin He,Daniel Han
+
+Haley Park,Marcus Rim
+Alvin He,Molly Youn
+Aaron Wong,Amy Jung
+Dylan Kim,Sam Hahn
+Aaron Liu,Daniel Han
+Minjoo Yang,Timmy S
+Carol He,Trevor Hyun
+Joel Lim,Noah Ong
+Millou LaForte,Yusung Hwang
+Christine Kim,Samantha Hua
+
+Haley Park,Noah Ong
+Aaron Liu,Trevor Hyun
+Aaron Wong,Marcus Rim
+Carol He,Molly Youn
+Minjoo Yang,Samantha Hua
+Millou LaForte,Sam Hahn
+Kelsey Miu,Yusung Hwang
+Amy Jung,Joel Lim
+Alvin He,Timmy S
+

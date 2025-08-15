@@ -74,10 +74,10 @@ def pair_names(names, custom_pairs=None, unpaired_name=None):
 names = ["Marcus Rim", "Timmy S", "Haley Park", "Kelsey Miu", 
          "Aaron Wong", "Amy Jung", "Aaron Liu", "Millou LaForte", 
          "Samantha Hua", "Trevor Hyun", "Joel Lim", "Alvin He", "Carol He", 
-         "Molly Youn", "Yusung Hwang", "Ashley Tran", "Sam Hahn", "Daniel Han", 
-         "Minjoo Yang", "Christine Kim", "Dylan Kim", "Noah Ong"]
-# custom_pairs = [("Amy Jung", "Ashley Tran"), ("Marcus Rim", "Alvin He")]
-custom_pairs = []
+         "Molly Youn", "Yusung Hwang", "Sam Hahn", "Daniel Han", 
+         "Minjoo Yang", "Noah Ong"]
+custom_pairs = [("Molly Youn", "Carol He")]
+# custom_pairs = []
 
 new_pairings, unpaired = pair_names(names, custom_pairs, unpaired_name=None)
 print("New Pairings:", new_pairings)

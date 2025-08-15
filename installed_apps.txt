@@ -1,0 +1,125 @@
+Accelerate.app
+AdBlock.app
+AdGuard for Safari.app
+Adobe Acrobat DC
+Adobe Creative Cloud
+Adobe Digital Editions 4.5.app
+Adobe Digital Editions.app
+Adobe Illustrator 2025
+Adobe InDesign 2024
+Adobe InDesign 2025
+Adobe Media Encoder 2025
+Adobe Photoshop 2025
+Adobe Premiere Pro 2025
+AlDente.app
+Alfred 4.app
+Anaconda-Navigator.app
+Anki.app
+Arc.app
+Archived
+BTTV for Safari.app
+Be Focused.app
+Betaflight Configurator.app
+Blackmagic Proxy Generator Lite.app
+Blackmagic RAW
+Brave Browser.app
+CLion.app
+ChatGPT.app
+Clash Verge.app
+Codye.app
+CopyClip.app
+Countdown Timer Plus.app
+Coupert For Safari.app
+Cursor.app
+DB Browser for SQLite.app
+DJI Assistant 2 (DJI FPV series).app
+DaVinci Resolve
+Day One.app
+DingTalk.app
+Docker.app
+Documents Translator.app
+Elmedia Player.app
+Flux.app
+Flycut.app
+GPT4All.app
+GeForceNOW.app
+GitHub Desktop.app
+Google Chrome.app
+Google Docs.app
+Google Drive.app
+Google Sheets.app
+Google Slides.app
+Horo.app
+Hush.app
+IPFS Desktop.app
+Inkscape.app
+Instapaper Save.app
+IntelliJ IDEA.app
+Keynote.app
+LINE.app
+LifeAt.app
+Logger Pro 3
+Logseq.app
+Loom.app
+Messenger.app
+Microsoft Excel.app
+Microsoft OneNote.app
+Microsoft PowerPoint.app
+Microsoft Teams classic.app
+Microsoft Word.app
+Momentum.app
+MuteSpotifyAds.app
+Notion Web Clipper.app
+Notion.app
+Numbers.app
+OBS.app
+OneDrive.app
+OneTab.app
+Orion.app
+Pages.app
+PaperCut Mobility Print Client
+PayPal Honey.app
+Petoi Desktop App.app
+Photomator.app
+Polyglot.app
+Postman.app
+Pro Script.app
+Python 3.9
+Racket v8.15
+Raspberry Pi Imager.app
+Redis Insight.app
+RemNote.app
+RescueTime.app
+Roam Research.app
+Rocket.app
+Safari.app
+Safarikai.app
+Scroll Reverser.app
+SelfControl.app
+Shop.app
+Spark.app
+Spotify.app
+Steam.app
+Studio 3T.app
+Sublime Text.app
+Surfshark.app
+TeamViewer.app
+TickTick.app
+Toggl Track.app
+Touch Of SAGE.app
+Tsurukame.app
+Utilities
+VLC.app
+Visual Studio Code.app
+WeChat.app
+Widgeridoo.app
+Windscribe.app
+WorkSpaces.app
+friture.app
+gpt4all
+iMovie.app
+iTerm.app
+one sec.app
+untitled folder
+vcs_vision.app
+zoom.us.app
